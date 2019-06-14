@@ -1,0 +1,12 @@
+venv/
+.ipynb_checkpoints/
+dask-worker-space/
+__MACOSX/
+features/
+labels/
+test_features/
+test_labels/
+*.zip
+*.csv
+*.joblib
+.DS_Store
